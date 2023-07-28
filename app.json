@@ -1,13 +1,13 @@
 {
-  "name": "⦓ 𝗧𝗘𝗟𝗘𝗛𝗢𝗡 𝗦𝗣𝗜𝗗𝗘𝗥 ⦔",
-  "description": "اللهم صلي وسلم وزد وبارك على سيدنا محمد 🌺",
-  "logo": "https://graph.org/file/92e7f9503dc8352f65181.jpg",
+  "name": "⦓ 𝗧𝗘𝗟𝗘𝗛𝗢𝗡 𝙅𝘼𝙆𝙊𝙊 ⦔",
+  "description": "🤍",
+  "logo": "https://telegra.ph/file/1860b3cdf99b31e50dab5.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SOURCE-SPIDER/TELEHON",
+  "repository": "https://github.com/jaketoo/12",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -52,7 +52,7 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Africa/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     }
   },
@@ -63,7 +63,7 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/SOURCE-SPIDER/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/jaketoo/heroku-buildpack-ffmpeg-latest"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
