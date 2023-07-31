@@ -1,4 +1,4 @@
-FROM thejmthon/jmub:slim-buster
+FROM jaketoo/11:slim-buster
 
 RUN git clone https://github.com/jaketoo/11.git /root/WWWL5
 
